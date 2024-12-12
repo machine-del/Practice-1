@@ -227,12 +227,12 @@
     justify-content: center;
   }
   
-  .service__card--subtitle,
   .service__card--title {
-    padding: 29px;
+    padding: 31px 0px 41px 29px;
   }
   
   .service__card--subtitle {
+    padding: 40px 0px 24px 29px;
     font-family: "FuturaBookC";
     font-weight: 400;
     font-size: 16px;
